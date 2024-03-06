@@ -1,0 +1,15 @@
+
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ì“Òùÿÿÿÿÿ8ú†ú¥á1
+e
+java:S6201
+"HReplace this instanceof check and cast with 'instanceof Integer integer'(†ý¾á8û†ú¥á1
+e
+java:S6201
+"HReplace this instanceof check and cast with 'instanceof Integer integer'(†ý¾á8ü†ú¥á1
+c
+java:S1126"AReplace this if-then-else statement by a single return statement.(ÈÞˆýþÿÿÿÿ8ü†ú¥á1
+e
+java:S6201"HReplace this instanceof check and cast with 'instanceof Integer integer'(†ý¾á8ü†ú¥á1
+c
+java:S6201%"FReplace this instanceof check and cast with 'instanceof Double double'(©ìŠæ8ý†ú¥á1

@@ -1,0 +1,27 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+S
+#src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
+Y
+)src/main/java/mockito/ValidateNumber.java,b\a\ba7ac05d384694482a350d00d2154ec0b6d18548
+P
+ src/main/java/mockito/Sumar.java,8\6\860ecae83baef3a3bbec001c1b9dbdc18dcb1427
+]
+-src/test/java/mockito/ValidateNumberTest.java,1\6\1666cb5b07c98e7eae1cf8f706a61e60fa55c4ff
+Y
+)src/test/java/mockito/SumarMockTest1.java,8\6\863b412a749627a1746ce42e675bd269471f412a
+Y
+)src/test/java/mockito/SumarMockTest2.java,8\9\89e150a0a7bae43884b558ffcef00ca3d6a0f741
+T
+$src/test/java/mockito/SumarTest.java,3\8\38d26b9082bd139a698bfaf18ddbe01a3020d35d
+P
+ src/main/java/mockito/Print.java,8\5\85497e2ebd21110402d21452dfed4121092532f0
+U
+%src/main/java/mockito/WebService.java,a\0\a0fd9e97fbd246eaaeda30232cfc3b4721f90811
+Y
+)src/test/java/mockito/WebServiceTest.java,6\1\615696b55f3a78226d80089b02ef61f9bfb5e4e3
+P
+ src/main/java/mockito/lOGIN.java,6\a\6a6b36e91971fb09acfe2d24557f9dc97e605bff
+P
+ src/main/java/mockito/Login.java,4\6\46e5e401fa17c25f2a2a6ecc8845bd7b031cd5a5
